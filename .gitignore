@@ -1,2 +1,6 @@
+/data/
+data/
 datasets/
 /datasets/
+venv/
+requirements.txt
