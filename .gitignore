@@ -4,3 +4,6 @@ datasets/
 /datasets/
 venv/
 my_mnist.mmap 
+*.dot
+*.toml
+*.lock
