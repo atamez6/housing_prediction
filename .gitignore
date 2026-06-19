@@ -3,3 +3,4 @@ data/
 datasets/
 /datasets/
 venv/
+my_mnist.mmap 
